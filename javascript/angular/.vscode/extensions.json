@@ -1,12 +1,14 @@
 {
-  "recommendations": [
-    "dsznajder.es7-react-js-snippets",
-    "gamunu.vscode-yarn",
+  "recommendations": [     
+    "johnpapa.Angular2",
+    "MariusAlchimavicius.json-to-ts",
+    "johnpapa.vscode-peacock",
+    "angular.ng-template",
+    "oderwat.indent-rainbow",    
     "jasonnutter.search-node-modules",
     "mrmlnc.vscode-scss",
     "syler.sass-indented",
-    "christian-kohler.npm-intellisense",
-    "xabikos.javascriptsnippets",
+    "christian-kohler.npm-intellisense",    
     "zignd.html-css-class-completion",
     "esbenp.prettier-vscode",
     "dbaeumer.vscode-eslint",
@@ -19,7 +21,10 @@
     "formulahendry.auto-close-tag",
     "formulahendry.auto-rename-tag",
     "yzhang.markdown-all-in-one",
-    "davidanson.vscode-markdownlint",
-    "planbcoding.vscode-react-refactor",
+    "davidanson.vscode-markdownlint",    
+    "ritwickdey.liveserver",
+    "nrwl.angular-console",
+    "stenography.stenography",
+    "stylelint.vscode-stylelint",
   ]
 }
