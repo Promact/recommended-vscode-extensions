@@ -21,5 +21,16 @@
     "yzhang.markdown-all-in-one",
     "davidanson.vscode-markdownlint",
     "planbcoding.vscode-react-refactor",
+    "ms-python.python",
+    "ms-python.vscode-pylance",
+    "ms-python.black-formatter",
+    "KevinRose.vsc-python-indent",
+    "oderwat.indent-rainbow",
+    "njqdev.vscode-python-typehint",
+    "cstrap.python-snippets",
+    "astralsoftware.ruff",
+    "SonarSource.sonarlint-vscode",
+    "streetsidesoftware.code-spell-checker",
+    "mechatroner.rainbow-csv"
   ]
 }
